@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-image: linear-gradient(to left,rgb(167, 67, 67),rgb(148, 90, 90) );
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: rgb(91, 91, 252);
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+    text-align: justify;
+    
+}
+#titulo {
+    font-family: sans-serif;
+    color: rgb(14, 235, 88);
+    margin-left: 7%;
+}
+.subtitulo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(12, 156, 144);
+    margin-left: 10%;
+}
+fieldset{
+    border:0;
+    
+}
+input,select,textarea,button{
+    border-radius: 5px;
+}
+.campo{
+    margin-bottom: 1em;
+}
+form {
+    background-color: rgb(68, 17, 88);
+    border-radius: 1em;
+    padding-right: 2em;
+    margin-right:30em;
+    margin-bottom: auto;
+    text-align: center;
+    
+}
+.nome {
+    padding-top: 1em;
+    padding-left: 1em;
+
+}
+.Email {
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+
+}
+.password{
+    padding-top: 0.5em;
+    padding-left: 1em;
+
+}
+.password2{
+    padding-top: 0.5em;
+    text-align: justify;
+    padding-left: 1em;
+    text-align:center;
+}
